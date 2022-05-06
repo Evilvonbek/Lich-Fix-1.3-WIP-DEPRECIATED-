@@ -1,0 +1,10 @@
+﻿{
+  "AssemblyName": "LichFix.dll",
+  "Author": "theLittleDD OG, EVB Curator",
+  "DisplayName": "LichFix - 1.3 Rework",
+  "EntryMethod": "LichFix.Main.Load",
+  "Id": "LichFix",
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "Version": "1.3.a"
+}
