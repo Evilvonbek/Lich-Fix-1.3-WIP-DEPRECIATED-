@@ -45,7 +45,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>F:\Epic Games Library\PathfinderWOTR\Wrath_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="AssemblyPublicizer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -53,7 +53,7 @@
     </Reference>
     <Reference Include="ModKit, Version=1.0.8.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\Steam\steamapps\common\Pathfinder Second Adventure\Mods\TabletopTweaks\ModKit.dll</HintPath>
+      <HintPath>bin\Debug\LichFix\ModKit.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

@@ -67,7 +67,7 @@ namespace LichFix
         {
             get
             {
-                return ResourcesLibrary.TryGetBlueprint<BlueprintAbility>("d404c44b919667347877e7580e1e7498");
+                return ResourcesLibrary.TryGetBlueprint<BlueprintAbility>("e9c9a61b81a297942a326c91da2af8ca");
             }
         }
         public static BlueprintAbilityAreaEffect deathGazeAura
