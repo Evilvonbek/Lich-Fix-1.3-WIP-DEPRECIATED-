@@ -24,12 +24,12 @@ While there should be no issues, please note that it's a mod and the game itself
 
 **Credits**
 
-theDD - Original Author and Creator, coder of versions 1.0.0 through 1.2.0
-KuruFivne - Modder who stepped in when I was stuck and created the patch 1.2.0+ working "bodge" version most of us used in 1.2.1 and was the basis for the 1.3.0+ compliant version
-Evilvonbek ( aka Madlampy on the server ) - Author and mod-botherer for version 1.3.0
-Sparhawk - massive help with sorting the Localization code which kept blowing up on me
-AlterAsc/Bubbles/Vek - for teaching me about casts and types without me even realising and how to get the mod to pass values properly
-The three above plus WraithJT, Balkoth, Wolfie and many others in the Tech Channel in the discord for helping me get this from "Argh, it's borked" to "heh, this actually works" without shouting at me too many times
+- theDD : Original Author and Creator, coder of versions 1.0.0 through 1.2.0.
+- KuruFivne : Modder who stepped in when I was stuck and created the patch 1.2.0+ working "bodge" version most of us used in 1.2.1 and was the basis for the 1.3.0+ compliant version.
+- Evilvonbek ( aka Madlampy on the server ) : Author and mod-botherer for version 1.3.0.
+- Sparhawk : massive help with sorting the Localization code which kept blowing up on me.
+- AlterAsc/Bubbles/Vek : for teaching me about casts and types without me even realising and how to get the mod to pass values properly.
+- The three above plus WraithJT, Balkoth, Wolfie and many others in the Tech Channel in the discord for helping me get this from "Argh, it's borked" to "heh, this actually works" without shouting at me too many times.
 
 Owlcat for the game ofc...
  
